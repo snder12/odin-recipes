@@ -1,3 +1,18 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.head-content {
+  background-color: aliceblue;
+  text-align: center;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.main-content {
+  background-color: beige;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+}
